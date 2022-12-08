@@ -52,6 +52,12 @@
 > | [Ferdi Çıldız ᵀᴿ](https://www.youtube.com/@FerdiCildiz)                          | [george hotz archive](https://www.youtube.com/@geohotarchive/featured)        |
 > | [Can Deger](https://www.youtube.com/@CanDeger)                                   | [Colt Steele](https://www.youtube.com/@ColtSteeleCode)                        |
 > | [bora kaşmer](https://www.youtube.com/@borakasmer)                               | [Florin Pop](https://www.youtube.com/@FlorinPop)                              |
+> | [Yunus Eş](https://www.youtube.com/@YunusEs)                                     | [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge)         |
+> | [bidoluyazılım](https://www.youtube.com/@bidoluyazlm)                            | [Simplilearn](https://www.youtube.com/@SimplilearnOfficial)                   |
+> | [ahmet alp balkan](https://www.youtube.com/@ahmetb/playlists)                    | []()                                                                          |
+> | [Kod-Man](https://www.youtube.com/@KodManJs)                                     | []()                                                                          |
+> | []()                                                                             | []()                                                                          |
+> | []()                                                                             | []()                                                                          |
 > | []()                                                                             | []()                                                                          |
 > | []()                                                                             | []()                                                                          |
 > | []()                                                                             | []()                                                                          |
