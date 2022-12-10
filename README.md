@@ -4,7 +4,8 @@
 
 ## İçindekiler
 
-- [ YouTube Kanalları](#youtube-kanalları)
+- [İçindekiler](#i̇çindekiler)
+- [YouTube Kanalları](#youtube-kanalları)
 - [İkonlar](#i̇konlar)
 
 ## YouTube Kanalları
@@ -54,12 +55,12 @@
 > | [bora kaşmer](https://www.youtube.com/@borakasmer)                               | [Florin Pop](https://www.youtube.com/@FlorinPop)                              |
 > | [Yunus Eş](https://www.youtube.com/@YunusEs)                                     | [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge)         |
 > | [bidoluyazılım](https://www.youtube.com/@bidoluyazlm)                            | [Simplilearn](https://www.youtube.com/@SimplilearnOfficial)                   |
-> | [ahmet alp balkan](https://www.youtube.com/@ahmetb/playlists)                    | []()                                                                          |
-> | [Kod-Man](https://www.youtube.com/@KodManJs)                                     | []()                                                                          |
-> | []()                                                                             | []()                                                                          |
-> | []()                                                                             | []()                                                                          |
-> | []()                                                                             | []()                                                                          |
-> | []()                                                                             | []()                                                                          |
+> | [ahmet alp balkan](https://www.youtube.com/@ahmetb/playlists)                    | [Coding With John](https://www.youtube.com/channel/UC42pOSNg804f1wCcj7qL0mA)  |
+> | [Kod-Man](https://www.youtube.com/@KodManJs)                                     | [Code with Ania Kubow](https://www.youtube.com/@AniaKubow)                    |
+> | [Armagan Amcalar](https://www.youtube.com/@ArmaganAmcalar)                       | []()                                                                          |
+> | [Kaliteli Yazılımcı](https://www.youtube.com/@kaliteliyazlmc1376)                | []()                                                                          |
+> | [Burak Demir](https://www.youtube.com/@BurakDemiryt)                             | []()                                                                          |
+> | [Hakan Yalcinkaya](https://www.youtube.com/@HakanYalcinkaya)                     | []()                                                                          |
 > | []()                                                                             | []()                                                                          |
 
 <div align="right">
